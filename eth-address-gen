@@ -1,0 +1,21 @@
+from eth_account import Account
+
+def generate_vanity_address(suffix, attempt_interval=10000):
+    attempts = 0
+    while True:
+        account = Account.create()
+        address = account.address.lower()
+        if address.endswith(suffix.lower()):
+            return account.address, account.key.hex(), attempts
+        attempts += 1
+        if attempts % attempt_interval == 0:
+            print(f"Attempts: {attempts}")
+
+if __name__ == "__main__":
+    suffix = input("Enter the desired suffix for the address: ")
+    
+    address, private_key, attempts = generate_vanity_address(suffix)
+    
+    print(f"Found address: {address}")
+    print(f"Private key: {private_key}")
+    print(f"Total attempts: {attempts}")
