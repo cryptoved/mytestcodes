@@ -1,12 +1,12 @@
-# Pionex ????? BONUSOK????? xStocks?Grid Bot?DCA Bot ???
+# Pionex 紹介コード BONUSOK：日本向け xStocks・Grid Bot・DCA Bot ガイド
 
-![???Pionex?????????????xStocks?Grid Bot??????BONUSOK?QR????????](https://files.catbox.moe/nn71di.png)
+![日本のPionexアクティブトレーダー向け、xStocks、Grid Bot、紹介コードBONUSOK、QRコード付きバナー](https://files.catbox.moe/nn71di.png)
 
 このページは、日本からPionexを検討するアクティブトレーダー向けの実践メモです。最新のxStocks、トークン化株式、Grid Bot、DCA Bot、Futures Grid、手数料キャッシュバック、リスク確認を一つにまとめ、紹介コード **BONUSOK** を使うべき場面と使う前に確認すべき点を整理します。
 
 [BONUSOK?Pionex?????](https://partner.pionex.com/p/BONUSOK)
 
-![Pionex?????BONUSOK???QR???](https://files.catbox.moe/86lc22.png)
+![Pionex紹介コードBONUSOK登録用QRコード](https://files.catbox.moe/86lc22.png)
 
 最終確認日：2026年6月19日。特典、対象地域、取扱商品、手数料、ボット仕様は変更される可能性があります。登録前にPionex公式画面で必ず確認してください。
 
